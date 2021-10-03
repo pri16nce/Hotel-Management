@@ -82,7 +82,7 @@ void menus :: menu()
   cout<<"\n\n\t\t\t1.Admin";
   cout<<"\n\t\t\t2.User";
   cout<<"\n\t\t\t3.Exit";
-  cout<<"\n\n\t\t\t\tEnter Your Choice(1-3):";
+  cout<<"\n\n\t\t\t\tEnter Your Choice(1-3):";//good code
   ch=getche();
   do
   {
