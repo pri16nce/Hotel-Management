@@ -132,7 +132,7 @@ void menus :: admin()
 void menus :: user()
 {
     system("cls");
-    cout<<"\n\n\n\t\t\t\t     User Menu\n\t\t\t\t***********************";
+    cout<<"\n\n\n\t\t\t\t     User Menu\n\t\t\t\t***********************";//Good code
     cout<<"\n\n\t\t\t\t1.Book Your Room";
     cout<<"\n\t\t\t\t2.See Your Bill";
     cout<<"\n\t\t\t\t3.Back To Main Menu";
